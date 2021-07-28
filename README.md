@@ -3,7 +3,7 @@
 My name is Jaime, I'm from Colombia and I'm a developer web.
 
 * Currently working for Sistema de Informacion Empresarial (SIESA) as a developer full stack
-* estoy estudiando en la universidad cooperativa de colombia y actualmente estoy en noveno semestre
+* I am studying at the cooperative university of Colombia and I am currently in the ninth semester
 * At present I am in a research hotbed by fedesoft, with the intention of becoming a full stack developer
 
 ##    Skills
